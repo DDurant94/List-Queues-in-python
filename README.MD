@@ -17,3 +17,4 @@ Contact Information:
   <https://www.codewars.com/users/ddurant94>
 
 About:
+This repository is for queuing and stack foundations for use within databases. For a detailed understanding of the two programs, refer to doc.txt.

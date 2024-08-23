@@ -1,4 +1,13 @@
 About:
+I have two different programs set up: one is a Queue (First In, First Out - FIFO), and the other is a Stack (First In, Last Out - FILO).
+
+order_management is a queuing program designed for a restaurant. The user has the ability to add, remove and view orders using a FIFO queuing 
+system.
+
+Browser History is a stack program (FILO) where each new website added to the list goes on top. When deleting from the list, the last item added 
+is the first one to go. The program allows for adding, removing, viewing the last visited webpage, and checking the number of webpages visited.
+
+Both programs are designed to help understand how queuing and stacking can be used for databases.
 
 Questions:
   Restaurant Order Management
